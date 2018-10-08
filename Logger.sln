@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{DB07C218-2A00-40D3-AB1E-95E1E2BBE4AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix.Logger", "Belatrix.Logger\Belatrix.Logger.csproj", "{DB07C218-2A00-40D3-AB1E-95E1E2BBE4AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerTest", "LoggerTest\LoggerTest.csproj", "{355109F2-0A69-4D69-B8A8-5850F45C8996}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix.Logger.Test", "Belatrix.Logger.Test\Belatrix.Logger.Test.csproj", "{355109F2-0A69-4D69-B8A8-5850F45C8996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerApp", "LoggerApp\LoggerApp.csproj", "{2AB9576C-738B-4E05-A851-A60A53210001}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix.Logger.Console", "Belatrix.Logger.Console\Belatrix.Logger.Console.csproj", "{2AB9576C-738B-4E05-A851-A60A53210001}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "LoggerDB", "LoggerDB\LoggerDB.sqlproj", "{57F8487F-34FF-48A4-99DA-98C9B73764D5}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Belatrix.Logger.DataBase", "Belatrix.Logger.DataBase\Belatrix.Logger.DataBase.sqlproj", "{57F8487F-34FF-48A4-99DA-98C9B73764D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
